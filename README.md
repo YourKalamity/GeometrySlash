@@ -27,7 +27,7 @@ Building the project does not require, but is easier with CMake. It's recommende
 1. make the binary executable `chmod +x GeometrySlash`
 1. run the binary with `./GeometrySlash`
 
-**You can also get a build from the [Releases page](https://github.com/Peter0x44/GeometrySlash/Releases), in which case just follow steps 7-8 in the directory GeometrySlash is in after you Download it.**
+**You can also get a build from the [Releases page](https://github.com/Peter0x44/GeometrySlash/releases), in which case just follow steps 7-8 in the directory GeometrySlash is in after you Download it.**
 
 ## Building (Windows, MinGW)
 
